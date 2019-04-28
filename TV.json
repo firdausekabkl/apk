@@ -1,0 +1,364 @@
+[
+  {
+    "title":"RCTI",
+    "provider":"stream",
+    "image": "",
+    "arguments":[
+      "http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    ]
+  },
+  {
+    "title":"MNC",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    ]
+  },
+  {
+    "title":"Global Tv",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    ]
+  },
+  {
+    "title":"SCTV",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    ]
+  },
+  {
+    "title":"ANTV",
+    "provider":"stream",
+    "image":"antv.png",
+    "arguments":[
+      "http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    ]
+  },
+  {
+    "title":"Net TV",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    ]
+  },
+  {
+    "title":"Trans TV",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    ]
+  },
+
+
+
+  {
+    "title":"Trans 7",
+    "provider":"stream",
+    "image":"/antv.png",
+    "arguments":[
+      "http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    ]
+  },
+
+
+  {
+    "title":"Rajawali TV",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    ]
+  },
+
+
+  {
+    "title":"Inews",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    ]
+  },
+
+
+  {
+    "title":"Berita Satu",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8"
+    ]
+  },
+
+
+  {
+    "title":"CNN Indonesia",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8"
+    ]
+  },
+
+
+  {
+    "title":"Kompas Tv",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    ]
+  },
+
+
+  {
+    "title":"TV One",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    ]
+  },
+
+
+
+  {
+    "title":"MNCTV",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://id2.indostreamingtv.com/live/event/index.m3u8"
+    ]
+  },
+
+
+  {
+    "title":"ANTV",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://210.210.155.35/qwr9ew/s/s07/index1.m3u8"
+    ]
+  },
+
+
+  {
+    "title":"RTV",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8"
+    ]
+  },
+
+
+  {
+    "title":"Indosiar",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    ]
+  },
+
+
+  {
+    "title":"Kompas TV",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://210.210.155.35/qwr9ew/s/s09/index1.m3u8"
+    ]
+  },
+
+
+
+
+  {
+    "title":"JGO TV",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8"
+    ]
+  },
+
+
+  {
+    "title":"Hello TV",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8"
+    ]
+  },
+
+
+
+  {
+    "title":"Thrill",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8"
+    ]
+  },
+
+
+  {
+    "title":"My Cinema",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8"
+    ]
+  },
+
+
+  {
+    "title":"Diva TV",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://210.210.155.35/uq2663/h/h11/index.m3u8"
+    ]
+  },
+
+
+
+  {
+    "title":"Cinema World HD",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://210.210.155.35/uq2663/h/h04/index2.m3u8"
+    ]
+  },
+
+
+  {
+    "title":"Hits",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://210.210.155.35/uq2663/h/h37/index2.m3u8"
+    ]
+  },
+
+
+  {
+    "title":"K-Drama",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8"
+    ]
+  },
+
+
+  {
+    "title":"Super Soccer",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://210.210.155.35/uq2663/h/h20/index.m3u8"
+    ]
+  },
+
+
+
+
+  {
+    "title":"Santana Sport",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://ott-cdn.ucom.am/s81/03.m3u8"
+    ]
+  },
+
+
+
+  {
+    "title":"Sportsmax",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8"
+    ]
+  },
+
+
+
+  {
+    "title":"Disney Junior",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8"
+    ]
+  },
+
+
+
+  {
+    "title":"CN Carton HD",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8"
+    ]
+  },
+
+
+  {
+    "title":"CNA Asia",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8"
+    ]
+  },
+
+
+
+  {
+    "title":"Karoke Channel",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8"
+    ]
+  },
+
+
+
+  {
+    "title":"Mix Musik",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8"
+    ]
+  },
+
+
+
+
+  {
+    "title":"Random",
+    "provider":"stream",
+    "image":"",
+    "arguments":[
+      "http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com"
+    ]
+  }
+
+]
