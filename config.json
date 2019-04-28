@@ -1,0 +1,92 @@
+[
+  {
+    "title":"Selamat Datang",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Selamat Datang",
+        "provider":"webview",
+        "arguments":[
+          "https://1.bp.blogspot.com/-apshwK-ySLs/VJf9hEHTJzI/AAAAAAAADfM/EqS0-FYSlQA/s1600/bitebrands%2B-%2Blogo%2Bstasiun%2Btelevisi%2B14.jpg"
+
+        ]
+      }
+    ]
+  },
+
+
+  {
+    "title":"TV",
+    "drawable":"",
+    "submenu":"Layanan",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"TV",
+        "provider":"overview",
+        "arguments":[
+          "Tv.json"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Radio",
+    "drawable":"",
+    "submenu":"Layanan",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Radio",
+        "provider":"overview",
+        "arguments":[
+          "radio.json"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Pencarian Video",
+    "drawable":"",
+    "submenu":"Pencarian Video",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"YouTube",
+        "provider":"webview",
+        "arguments":[
+          "https://m.youtube.com/"
+        ]
+      },
+      {
+        "title":"Yahoo Video",
+        "provider":"webview",
+        "arguments":[
+          "https://video.search.yahoo.com"
+        ]
+      }
+    ]
+  },
+
+
+
+
+
+  {
+    "title":"Pengaturan",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.sherdle.universal.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
